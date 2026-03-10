@@ -1,4 +1,4 @@
-FROM python:3.10-alpine
+FROM python:3.14.0-alpine
 
 LABEL name="Python dnstap receiver" \
       description="Dnstap streams receiver" \
